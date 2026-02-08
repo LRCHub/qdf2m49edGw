@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "DEPARTURES (RADIO EDIT)",
+  "base_artist": "globe - Topic",
+  "createdAt": "2026-02-08T14:47:41.387496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DEPARTURES(RADIO EDIT)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/01_DEPARTURES(RADIO_EDIT)_globe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summertime Departures (Radio Edit)",
+      "artist": "Alex Henry Foster",
+      "has_synced": false,
+      "path": "select/02_Summertime_Departures_(Radio_Edit)_Alex_Henry_Foster.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DEPARTURES (RADIO EDIT)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/03_DEPARTURES_(RADIO_EDIT)_globe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DEPARTURES (RADIO EDIT)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/04_DEPARTURES_(RADIO_EDIT)_globe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DEPARTURES (radio edit)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/05_DEPARTURES_(radio_edit)_globe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DEPARTURES (radio edit)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/06_DEPARTURES_(radio_edit)_globe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DEPARTURES - (RADIO EDIT)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/07_DEPARTURES_-_(RADIO_EDIT)_globe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEPARTURES (RADIO EDIT)",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/pl_01_DEPARTURES_(RADIO_EDIT)_globe.txt"
+    }
+  ]
+}
